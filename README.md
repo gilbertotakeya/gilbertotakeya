@@ -33,7 +33,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilberto-junior-26659022/)](https://www.linkedin.com/in/gilberto-junior-26659022/)
 
 ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
- gilbertotakeyajunior@gmail.com
 
 [![gilbertotakeya GitHub stats](https://github-readme-stats.vercel.app/api?username=gilbertotakeya)](https://github.com/gilbertotakeya/github-readme-stats)
 
