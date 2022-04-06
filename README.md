@@ -36,3 +36,6 @@
  gilbertotakeyajunior@gmail.com
 
 [![gilbertotakeya GitHub stats](https://github-readme-stats.vercel.app/api?username=gilbertotakeya)](https://github.com/gilbertotakeya/github-readme-stats)
+
+## Linguagem e ferramentas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertotakeya&layout=compact)](https://github.com/gilbertotakeya/github-readme-stats)
