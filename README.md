@@ -29,9 +29,7 @@
 ## Sobre mim
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gilbertotakeya/gilbertotakeya)](https://github.com/gilbertotakeya/gilbertotakeya)
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilberto-junior-26659022/)](https://www.linkedin.com/in/gilberto-junior-26659022/)
-
 ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 [![gilbertotakeya GitHub stats](https://github-readme-stats.vercel.app/api?username=gilbertotakeya)](https://github.com/gilbertotakeya/github-readme-stats)
