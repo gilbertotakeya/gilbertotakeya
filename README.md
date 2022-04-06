@@ -10,7 +10,7 @@
 
 :books: Graduado em Ciência da Computação pela UNIVEM e Pós Graduação em Informática em Saúde pela Unifesp
 
-- 📫 Podem me procurar no meu perfil do linkedin para Networking: https://www.linkedin.com/in/gilberto-junior-26659022/
+📫 Podem me procurar no meu perfil do linkedin para Networking: https://www.linkedin.com/in/gilberto-junior-26659022/
 
 📚: Tenho interesse em:
 ![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
